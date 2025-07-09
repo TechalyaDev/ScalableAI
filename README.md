@@ -13,3 +13,5 @@ Instructions:
 Link to the working draft - https://scalable-ai.vercel.app
 
 Technology stack - HTML5, CSS
+
+Link to the layout from Figma - https://clck.ru/3N2FLK
